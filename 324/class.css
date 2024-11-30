@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(./images/屏幕截图\ 2024-09-29\ 215130.png) ;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.window{
+    background: none;
+    width: 1500px;
+    margin:0px auto;
+    height: 400px;
+    text-align: center ;
+    line-height: 600px;
+    color: #fff;
+    font-size:40px;
+    font-weight: bold;
+    text-shadow: 0 0 40px rgba(0,0,0,0.3);
+}
+.sensored{
+    display:flex; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.return{
+    background:white;
+    height: 60px;
+    width: 150px;
+    opacity: 0.8;
+    border-radius:50%;
+    line-height: 60px;
+    margin: 0 auto;
+    text-align: center ;
+    font-size:20px;
+}
+.mate{
+    background:white;
+    width: 200px;
+    height: 200px;
+    opacity: 0.8;
+    border-radius:10%;
+    line-height:200px;
+    margin:0 auto;
+    text-align: center;
+    font-size:40px;
+    font-weight: bold;
+    text-shadow: 0 0 40px rgba(0,0,0,0.3);
+}
+.saying{
+    height: 60px;
+    line-height: 60px;
+    margin: 20px auto;
+    text-align: center ;
+    font-size:30px;
+    font-style:oblique;
+    color: ghostwhite;
+}
+   
